@@ -13,3 +13,9 @@
 ### website owner 
 * i would like to provide an clean and easy to navigate site that is both informative and pleasing to the eyes. 
 * i would like my site to provide all information a newcomer to the sport would need to know.
+
+
+Changes to make.... add relation between calander and maps api.
+add a history quiz in about us section.
+add track layout to maps api.
+add championship standings.
